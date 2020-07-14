@@ -1,0 +1,11 @@
+C:\Users\User\Documents\AI\AINumber\AINumber\obj\Debug\netcoreapp3.1\AINumber.csprojAssemblyReference.cache
+C:\Users\User\Documents\AI\AINumber\AINumber\obj\Debug\netcoreapp3.1\AINumber.AssemblyInfoInputs.cache
+C:\Users\User\Documents\AI\AINumber\AINumber\obj\Debug\netcoreapp3.1\AINumber.AssemblyInfo.cs
+C:\Users\User\Documents\AI\AINumber\AINumber\bin\Debug\netcoreapp3.1\AINumber.exe
+C:\Users\User\Documents\AI\AINumber\AINumber\bin\Debug\netcoreapp3.1\AINumber.deps.json
+C:\Users\User\Documents\AI\AINumber\AINumber\bin\Debug\netcoreapp3.1\AINumber.runtimeconfig.json
+C:\Users\User\Documents\AI\AINumber\AINumber\bin\Debug\netcoreapp3.1\AINumber.runtimeconfig.dev.json
+C:\Users\User\Documents\AI\AINumber\AINumber\bin\Debug\netcoreapp3.1\AINumber.dll
+C:\Users\User\Documents\AI\AINumber\AINumber\bin\Debug\netcoreapp3.1\AINumber.pdb
+C:\Users\User\Documents\AI\AINumber\AINumber\obj\Debug\netcoreapp3.1\AINumber.dll
+C:\Users\User\Documents\AI\AINumber\AINumber\obj\Debug\netcoreapp3.1\AINumber.pdb
